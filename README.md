@@ -7,6 +7,6 @@
   
   <dd><img width=20px height=20px src='https://icones.pro/wp-content/uploads/2022/08/css3.png'> CSS3</dd>
   
-  <dd><img width=20px height=20px src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png'> JS</dd>
+  <dd><img width=20px height=20px src='https://cutewallpaper.org/24/javascript-png/the-future-is-javascript.png'> JS</dd>
   
 </dl>
